@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "name": "Nikitha",
+      "roll_number": "101",
+      "marks": 88
+    },
+    {
+      "name": "Arjun",
+      "roll_number": "102",
+      "marks": 76
+    }
+  ]
+}
