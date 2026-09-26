@@ -1,2 +1,2 @@
 # Python_Assignments
-Weekly Python assignments
+Weekly Python assignments and Projects
