@@ -1,0 +1,24 @@
+EmployeeID,Name,Department,Experience_Years,Education_Level,Age,Gender,City,Monthly_Salary
+1,Employee_1,Marketing,15,Master,53,Female,Delhi,111416
+2,Employee_2,Operations,7,Bachelor,25,Female,Bangalore,95271
+4,Employee_4,Operations,8,PhD,44,Male,Delhi,95091
+5,Employee_5,Operations,15,Master,36,Female,Delhi,132450
+11,Employee_11,Marketing,8,PhD,43,Male,Delhi,141381
+12,Employee_12,IT,4,Master,49,Female,Hyderabad,104909
+15,Employee_15,Marketing,10,PhD,49,Female,Mumbai,99290
+16,Employee_16,Finance,4,High School,49,Female,Delhi,101213
+23,Employee_23,Marketing,16,High School,22,Male,Bangalore,122888
+25,Employee_25,HR,8,High School,34,Female,Bangalore,132455
+27,Employee_27,IT,8,Bachelor,27,Female,Delhi,119660
+28,Employee_28,Finance,16,Master,29,Female,Hyderabad,118179
+30,Employee_30,Marketing,18,High School,30,Male,Delhi,99543
+32,Employee_32,Marketing,13,Master,45,Female,Hyderabad,81835
+33,Employee_33,Marketing,9,Master,36,Male,Bangalore,127946
+34,Employee_34,HR,15,Bachelor,53,Female,Delhi,134616
+35,Employee_35,IT,13,Master,53,Male,Bangalore,130983
+36,Employee_36,Operations,1,Master,45,Female,Delhi,98744
+37,Employee_37,IT,7,High School,33,Male,Chennai,81491
+38,Employee_38,Operations,9,Master,23,Male,Mumbai,149123
+41,Employee_41,Marketing,8,Bachelor,23,Female,Bangalore,107989
+46,Employee_46,HR,3,PhD,54,Female,Hyderabad,88208
+50,Employee_50,Marketing,10,High School,47,Female,Bangalore,121752
